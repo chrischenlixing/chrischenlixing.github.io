@@ -13,7 +13,7 @@ The project is for building my home page, which includes my skills, courses, pro
 ## Screenshot
 
 
-![Homepage Screenshot](assets/img/homepageshot.jpg)
+![Homepage Screenshot](./chrisWebP1/assets/img/homepageshot.jpg)
 
 ## Instructions to Build
 
