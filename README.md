@@ -4,7 +4,7 @@
 
 ## Class Link
 
-[https://johnguerra.co/classes/webDevelopment_fall_2023/]
+https://johnguerra.co/classes/webDevelopment_fall_2023/
 
 ## Project Objective
 
@@ -13,7 +13,7 @@ The project is for building my home page, which includes my skills, courses, pro
 ## Screenshot
 
 
-![img](assets/img/homepageshot.jpg)
+![Homepage Screenshot](assets/img/homepageshot.jpg)
 
 ## Instructions to Build
 
