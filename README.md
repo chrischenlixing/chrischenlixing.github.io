@@ -9,7 +9,7 @@
 
 ## Presentations
 
-[Youtube Video](https://www.youtube.com/watch?v=ZNoN0Z-viP4)
+[YouTube Video](https://www.youtube.com/watch?v=ZNoN0Z-viP4)  
 [Slides](https://docs.google.com/presentation/d/1PM3qGEczMse1aCJlBDlbaam5u2zRkUwhFXkmrBWu698/edit#slide=id.g280a5e4a4fd_0_219)
 
 ## Class Link
