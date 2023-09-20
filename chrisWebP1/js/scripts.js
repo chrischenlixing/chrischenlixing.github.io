@@ -8,7 +8,7 @@
 // 
 
 window.addEventListener('DOMContentLoaded', event => {
-    // Activate Bootstrap scrollspy on the main nav element
+    
     const sideNav = document.body.querySelector('#sideNav');
     if (sideNav) {
         new bootstrap.ScrollSpy(document.body, {
@@ -53,9 +53,11 @@ window.addEventListener('DOMContentLoaded', event => {
     
     tabButtons.forEach((button) => {
       button.addEventListener("click", () => {
+
         tabButtons.forEach((btn) => btn.classList.remove("active"));
         hobbyContents.forEach((content) => content.classList.remove("active"));
     
+        // Add the 'active' class to the clicked button and corresponding content
         button.classList.add("active");
         const category = button.getAttribute("data-category");
         const content = document.querySelector(`.hobby-content[data-category="${category}"]`);

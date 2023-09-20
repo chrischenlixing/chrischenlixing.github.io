@@ -1,6 +1,5 @@
 # chrischenlixing.github.io
 
-
 **Author**: Lixing Chen
 
 ## Project Link
@@ -16,13 +15,11 @@
 
 [Web Development Class - Fall 2023](https://johnguerra.co/classes/webDevelopment_fall_2023/)
 
-
 ## Project Objective
 
 The project is for building my home page, which includes my skills, courses, projects and hobbies using HTML, CSS, JavaScript, and Bootstrap.
 
 ## Screenshot
-
 
 ![Homepage Screenshot](./chrisWebP1/assets/img/homepageshot.jpg)
 
@@ -32,7 +29,7 @@ The project is for building my home page, which includes my skills, courses, pro
 
    ```bash
    git clone https://github.com/chrischenlixing/chrischenlixing.github.io.git
-
+   ```
 
 ## Video
 
