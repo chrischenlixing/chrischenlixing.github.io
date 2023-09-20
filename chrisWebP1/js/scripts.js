@@ -57,7 +57,6 @@ window.addEventListener('DOMContentLoaded', event => {
         tabButtons.forEach((btn) => btn.classList.remove("active"));
         hobbyContents.forEach((content) => content.classList.remove("active"));
     
-        // Add the 'active' class to the clicked button and corresponding content
         button.classList.add("active");
         const category = button.getAttribute("data-category");
         const content = document.querySelector(`.hobby-content[data-category="${category}"]`);
