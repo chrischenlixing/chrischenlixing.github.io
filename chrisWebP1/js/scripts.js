@@ -42,8 +42,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
     contactForm.addEventListener("submit", function (e) {
         e.preventDefault();
-        // Simulate form submission (you can replace this with actual form submission code)
-        // For demonstration purposes, we'll just show the thank you modal
+
         thankYouModal.show();
         contactModal.hide();
     });
@@ -54,11 +53,9 @@ window.addEventListener('DOMContentLoaded', event => {
     
     tabButtons.forEach((button) => {
       button.addEventListener("click", () => {
-        // Remove the 'active' class from all buttons and contents
         tabButtons.forEach((btn) => btn.classList.remove("active"));
         hobbyContents.forEach((content) => content.classList.remove("active"));
     
-        // Add the 'active' class to the clicked button and corresponding content
         button.classList.add("active");
         const category = button.getAttribute("data-category");
         const content = document.querySelector(`.hobby-content[data-category="${category}"]`);

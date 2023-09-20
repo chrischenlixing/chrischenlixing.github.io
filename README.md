@@ -7,6 +7,11 @@
 
 [Main Page](https://chrischenlixing.github.io/chrisWebP1/index.html)
 
+## Presentations
+
+[Youtube Video](https://www.youtube.com/watch?v=ZNoN0Z-viP4)
+[Slides](https://docs.google.com/presentation/d/1PM3qGEczMse1aCJlBDlbaam5u2zRkUwhFXkmrBWu698/edit#slide=id.g280a5e4a4fd_0_219)
+
 ## Class Link
 
 [Web Development Class - Fall 2023](https://johnguerra.co/classes/webDevelopment_fall_2023/)
