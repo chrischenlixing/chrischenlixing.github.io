@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.box-model-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+
+.box-border {
+    border: 2px solid #e74c3c;
+}
+
+.box:nth-child(1) {
+    margin: 10px;
+    padding: 10px;
+}
+
+.box:nth-child(2) {
+    margin: 20px;
+    padding: 20px;
+}
+
+.box:nth-child(3) {
+    margin: 30px;
+    padding: 30px;
+}
+
+.box-border:nth-child(4) {
+    margin: 5px 10px 15px;
+    padding: 5px 10px 15px;
+}
+
+.box-border:nth-child(5) {
+    margin: 0px 5px 10px;
+    padding: 0px 5px 10px;
+}
+
+.box-border:nth-child(6) {
+    margin: 15px 10px 5px;
+    padding: 15px 10px 5px;
+}
+
+
+        .box-container {
+            position: relative; 
+            border: 1px solid #ccc;
+            height: 200px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .static-box {
+            position: static; 
+            background-color: lightblue;
+            padding: 10px;
+        }
+
+        .absolute-box {
+            position: absolute; /* Absolute positioning */
+            background-color: lightgreen;
+            padding: 10px;
+            top: 20px;
+            left: 20px;
+        }
+
+        .relative-box {
+            position: relative; 
+            background-color: lightcoral;
+            padding: 10px;
+            top: 40px;
+            left: 40px;
+        }
+
+        .fixed-box {
+            position: fixed; 
+            background-color: lightyellow;
+            padding: 10px;
+            top: 20px;
+            right: 20px;
+        }
