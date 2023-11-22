@@ -4,7 +4,7 @@
 
 ## Project Link
 
-[Main Page](https://chrischenlixing.github.io/chrisWebP1/index.html)
+[Main Page](https://chrischenlixing.github.io/)
 
 ## Presentations
 
@@ -17,7 +17,7 @@
 
 ## Project Objective
 
-The project is for building my home page, which includes my skills, courses, projects and hobbies using HTML, CSS, JavaScript, and Bootstrap.
+The project is for building my home page, which includes my skills, courses, projects, and hobbies using HTML, CSS, JavaScript, and Bootstrap.
 
 ## Screenshot
 
